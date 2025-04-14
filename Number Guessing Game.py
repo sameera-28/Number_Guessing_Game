@@ -10,6 +10,7 @@ if top_of_range.isdigit():
         quit()
 else:
     print('Please type a number next time.')
+    print('Please type a number next time.')
     quit()
 
 random_number = random.randint(0, top_of_range)
